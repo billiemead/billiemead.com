@@ -1,0 +1,21 @@
+/*
+Theme Name: Billiemead Child
+Description: Child theme for the Billiemead Theme
+Author: Upper
+Template: billiemead
+Version: 1.0.7
+*/
+
+.aio-icon .none {
+    top: 0px;
+}
+
+. pdf-resume-link a {
+    font-family: 'Quicksand', 'Arial', 'sans-serif';
+    font-weight: 700;
+    font-size: 14px;
+    color: rgb(221, 51, 51) !important;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+

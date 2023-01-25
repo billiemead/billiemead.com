@@ -1,0 +1,803 @@
+<?xml version="1.0"?>
+<root>
+  <option>
+    <id>carbon_enable_website_loader</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_website_loader</id>
+    <value>ball-scale</value>
+  </option>
+  <option>
+    <id>carbon_enable_website_loader_percentage</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_enable_smooth_scroll</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_update_section_titles</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_enable_gotop</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_enable_grayscale</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_index_primary_title</id>
+    <value>Blog</value>
+  </option>
+  <option>
+    <id>carbon_index_secondary_title</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_archive_secondary_title</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_blog_archive_sidebar</id>
+    <value>none</value>
+  </option>
+  <option>
+    <id>carbon_blog_archive_sidebars_available</id>
+    <value>defaultblogsidebar</value>
+  </option>
+  <option>
+    <id>carbon_blog_archive_style</id>
+    <value>masonry</value>
+  </option>
+  <option>
+    <id>carbon_display_metas</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_metas_to_display</id>
+    <value>date,author,tags,categories</value>
+  </option>
+  <option>
+    <id>carbon_blog_reading_type</id>
+    <value>paged</value>
+  </option>
+  <option>
+    <id>carbon_blog_single_primary_title</id>
+    <value>Blog</value>
+  </option>
+  <option>
+    <id>carbon_blog_secondary_title</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_blog_single_sidebar</id>
+    <value>none</value>
+  </option>
+  <option>
+    <id>carbon_sidebars_available</id>
+    <value>defaultblogsidebar</value>
+  </option>
+  <option>
+    <id>carbon_enlarge_images</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_post_single_social_shares</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_post_single_socials</id>
+    <value>facebook,linkedin,pinterest,email,twitter,tumblr,googleplus</value>
+  </option>
+  <option>
+    <id>carbon_post_enable_about_author</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_portfolio_permalink</id>
+    <value>portfolio</value>
+  </option>
+  <option>
+    <id>carbon_single_layout</id>
+    <value>full_media</value>
+  </option>
+  <option>
+    <id>carbon_project_single_social_shares</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_project_single_socials</id>
+    <value>facebook,twitter,tumblr,email,linkedin,pinterest</value>
+  </option>
+  <option>
+    <id>carbon_shop_primary_title</id>
+    <value>Shop</value>
+  </option>
+  <option>
+    <id>carbon_shop_secondary_title</id>
+    <value>Shop your stuff with WooCommerce</value>
+  </option>
+  <option>
+    <id>carbon_woo_sidebar_scheme</id>
+    <value>right</value>
+  </option>
+  <option>
+    <id>carbon_woo_sidebar</id>
+    <value>woocommerce</value>
+  </option>
+  <option>
+    <id>carbon_woo_zoom</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_woo_lightbox</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_woo_slider</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_enable_under_construction</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_under_construction_page</id>
+    <value>0</value>
+  </option>
+  <option>
+    <id>ultimate_selected_google_fonts</id>
+    <value>a:7:{i:0;a:4:{s:11:"font_family";s:9:"Quicksand";s:9:"font_name";s:9:"Quicksand";s:8:"variants";a:3:{i:0;a:2:{s:13:"variant_value";s:3:"300";s:16:"variant_selected";s:4:"true";}i:1;a:2:{s:13:"variant_value";s:3:"500";s:16:"variant_selected";s:4:"true";}i:2;a:2:{s:13:"variant_value";s:3:"700";s:16:"variant_selected";s:4:"true";}}s:7:"subsets";a:3:{i:0;a:2:{s:12:"subset_value";s:9:"latin-ext";s:15:"subset_selected";s:5:"false";}i:1;a:2:{s:12:"subset_value";s:10:"vietnamese";s:15:"subset_selected";s:5:"false";}i:2;a:2:{s:12:"subset_value";s:5:"latin";s:15:"subset_selected";s:5:"false";}}}i:1;a:4:{s:11:"font_family";s:16:"Playfair+Display";s:9:"font_name";s:16:"Playfair Display";s:8:"variants";a:5:{i:0;a:2:{s:13:"variant_value";s:6:"italic";s:16:"variant_selected";s:4:"true";}i:1;a:2:{s:13:"variant_value";s:3:"700";s:16:"variant_selected";s:4:"true";}i:2;a:2:{s:13:"variant_value";s:9:"700italic";s:16:"variant_selected";s:5:"false";}i:3;a:2:{s:13:"variant_value";s:3:"900";s:16:"variant_selected";s:4:"true";}i:4;a:2:{s:13:"variant_value";s:9:"900italic";s:16:"variant_selected";s:5:"false";}}s:7:"subsets";a:3:{i:0;a:2:{s:12:"subset_value";s:9:"latin-ext";s:15:"subset_selected";s:5:"false";}i:1;a:2:{s:12:"subset_value";s:8:"cyrillic";s:15:"subset_selected";s:5:"false";}i:2;a:2:{s:12:"subset_value";s:5:"latin";s:15:"subset_selected";s:5:"false";}}}i:2;a:4:{s:11:"font_family";s:4:"Hind";s:9:"font_name";s:4:"Hind";s:8:"variants";a:4:{i:0;a:2:{s:13:"variant_value";s:3:"300";s:16:"variant_selected";s:4:"true";}i:1;a:2:{s:13:"variant_value";s:3:"500";s:16:"variant_selected";s:4:"true";}i:2;a:2:{s:13:"variant_value";s:3:"600";s:16:"variant_selected";s:4:"true";}i:3;a:2:{s:13:"variant_value";s:3:"700";s:16:"variant_selected";s:4:"true";}}s:7:"subsets";a:3:{i:0;a:2:{s:12:"subset_value";s:9:"latin-ext";s:15:"subset_selected";s:5:"false";}i:1;a:2:{s:12:"subset_value";s:10:"devanagari";s:15:"subset_selected";s:5:"false";}i:2;a:2:{s:12:"subset_value";s:5:"latin";s:15:"subset_selected";s:5:"false";}}}i:3;a:4:{s:11:"font_family";s:11:"Roboto+Slab";s:9:"font_name";s:11:"Roboto Slab";s:8:"variants";a:3:{i:0;a:2:{s:13:"variant_value";s:3:"100";s:16:"variant_selected";s:5:"false";}i:1;a:2:{s:13:"variant_value";s:3:"300";s:16:"variant_selected";s:5:"false";}i:2;a:2:{s:13:"variant_value";s:3:"700";s:16:"variant_selected";s:5:"false";}}s:7:"subsets";a:7:{i:0;a:2:{s:12:"subset_value";s:5:"latin";s:15:"subset_selected";s:5:"false";}i:1;a:2:{s:12:"subset_value";s:9:"latin-ext";s:15:"subset_selected";s:5:"false";}i:2;a:2:{s:12:"subset_value";s:10:"vietnamese";s:15:"subset_selected";s:5:"false";}i:3;a:2:{s:12:"subset_value";s:8:"cyrillic";s:15:"subset_selected";s:5:"false";}i:4;a:2:{s:12:"subset_value";s:5:"greek";s:15:"subset_selected";s:5:"false";}i:5;a:2:{s:12:"subset_value";s:9:"greek-ext";s:15:"subset_selected";s:5:"false";}i:6;a:2:{s:12:"subset_value";s:12:"cyrillic-ext";s:15:"subset_selected";s:5:"false";}}}i:4;a:4:{s:11:"font_family";s:9:"Open+Sans";s:9:"font_name";s:9:"Open Sans";s:8:"variants";a:9:{i:0;a:2:{s:13:"variant_value";s:3:"300";s:16:"variant_selected";s:5:"false";}i:1;a:2:{s:13:"variant_value";s:9:"300italic";s:16:"variant_selected";s:5:"false";}i:2;a:2:{s:13:"variant_value";s:6:"italic";s:16:"variant_selected";s:5:"false";}i:3;a:2:{s:13:"variant_value";s:3:"600";s:16:"variant_selected";s:5:"false";}i:4;a:2:{s:13:"variant_value";s:9:"600italic";s:16:"variant_selected";s:5:"false";}i:5;a:2:{s:13:"variant_value";s:3:"700";s:16:"variant_selected";s:5:"false";}i:6;a:2:{s:13:"variant_value";s:9:"700italic";s:16:"variant_selected";s:5:"false";}i:7;a:2:{s:13:"variant_value";s:3:"800";s:16:"variant_selected";s:5:"false";}i:8;a:2:{s:13:"variant_value";s:9:"800italic";s:16:"variant_selected";s:5:"false";}}s:7:"subsets";a:7:{i:0;a:2:{s:12:"subset_value";s:5:"latin";s:15:"subset_selected";s:5:"false";}i:1;a:2:{s:12:"subset_value";s:9:"latin-ext";s:15:"subset_selected";s:5:"false";}i:2;a:2:{s:12:"subset_value";s:10:"vietnamese";s:15:"subset_selected";s:5:"false";}i:3;a:2:{s:12:"subset_value";s:8:"cyrillic";s:15:"subset_selected";s:5:"false";}i:4;a:2:{s:12:"subset_value";s:5:"greek";s:15:"subset_selected";s:5:"false";}i:5;a:2:{s:12:"subset_value";s:9:"greek-ext";s:15:"subset_selected";s:5:"false";}i:6;a:2:{s:12:"subset_value";s:12:"cyrillic-ext";s:15:"subset_selected";s:5:"false";}}}i:5;a:4:{s:11:"font_family";s:6:"Nunito";s:9:"font_name";s:6:"Nunito";s:8:"variants";a:13:{i:0;a:2:{s:13:"variant_value";s:3:"200";s:16:"variant_selected";s:4:"true";}i:1;a:2:{s:13:"variant_value";s:9:"200italic";s:16:"variant_selected";s:5:"false";}i:2;a:2:{s:13:"variant_value";s:3:"300";s:16:"variant_selected";s:4:"true";}i:3;a:2:{s:13:"variant_value";s:9:"300italic";s:16:"variant_selected";s:5:"false";}i:4;a:2:{s:13:"variant_value";s:6:"italic";s:16:"variant_selected";s:5:"false";}i:5;a:2:{s:13:"variant_value";s:3:"600";s:16:"variant_selected";s:4:"true";}i:6;a:2:{s:13:"variant_value";s:9:"600italic";s:16:"variant_selected";s:5:"false";}i:7;a:2:{s:13:"variant_value";s:3:"700";s:16:"variant_selected";s:4:"true";}i:8;a:2:{s:13:"variant_value";s:9:"700italic";s:16:"variant_selected";s:5:"false";}i:9;a:2:{s:13:"variant_value";s:3:"800";s:16:"variant_selected";s:4:"true";}i:10;a:2:{s:13:"variant_value";s:9:"800italic";s:16:"variant_selected";s:5:"false";}i:11;a:2:{s:13:"variant_value";s:3:"900";s:16:"variant_selected";s:5:"false";}i:12;a:2:{s:13:"variant_value";s:9:"900italic";s:16:"variant_selected";s:5:"false";}}s:7:"subsets";a:3:{i:0;a:2:{s:12:"subset_value";s:5:"latin";s:15:"subset_selected";s:5:"false";}i:1;a:2:{s:12:"subset_value";s:9:"latin-ext";s:15:"subset_selected";s:5:"false";}i:2;a:2:{s:12:"subset_value";s:10:"vietnamese";s:15:"subset_selected";s:5:"false";}}}i:6;a:4:{s:11:"font_family";s:5:"Dosis";s:9:"font_name";s:5:"Dosis";s:8:"variants";a:6:{i:0;a:2:{s:13:"variant_value";s:3:"200";s:16:"variant_selected";s:5:"false";}i:1;a:2:{s:13:"variant_value";s:3:"300";s:16:"variant_selected";s:4:"true";}i:2;a:2:{s:13:"variant_value";s:3:"500";s:16:"variant_selected";s:4:"true";}i:3;a:2:{s:13:"variant_value";s:3:"600";s:16:"variant_selected";s:4:"true";}i:4;a:2:{s:13:"variant_value";s:3:"700";s:16:"variant_selected";s:4:"true";}i:5;a:2:{s:13:"variant_value";s:3:"800";s:16:"variant_selected";s:4:"true";}}s:7:"subsets";a:2:{i:0;a:2:{s:12:"subset_value";s:9:"latin-ext";s:15:"subset_selected";s:5:"false";}i:1;a:2:{s:12:"subset_value";s:5:"latin";s:15:"subset_selected";s:5:"false";}}}}</value>
+  </option>
+  <option>
+    <id>page_on_front</id>
+    <value>8942</value>
+  </option>
+  <option>
+    <id>carbon_header_style_light_dark</id>
+    <value>light</value>
+  </option>
+  <option>
+    <id>carbon_header_full_width</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_header_menu_itens_style</id>
+    <value>simple</value>
+  </option>
+  <option>
+    <id>carbon_fixed_menu</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_header_hide_on_start</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_content_to_the_top</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_header_after_scroll</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_header_after_scroll_style_light_dark</id>
+    <value>dark</value>
+  </option>
+  <option>
+    <id>carbon_header_shrink_effect</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_woocommerce_cart</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_sliding_panel</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_social_icons_menu</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_header_style_type</id>
+    <value>style5</value>
+  </option>
+  <option>
+    <id>carbon_style2_telephone_slogan</id>
+    <value>Give us a call.</value>
+  </option>
+  <option>
+    <id>carbon_style2_telephone_menu</id>
+    <value>(+33) 755 123 965</value>
+  </option>
+  <option>
+    <id>carbon_style2_email_slogan</id>
+    <value>Send us an Email.</value>
+  </option>
+  <option>
+    <id>carbon_style2_email_menu</id>
+    <value>geral@carbon.com</value>
+  </option>
+  <option>
+    <id>carbon_logo_image_url_light</id>
+    <value>http://demos.upperthemes.com/carbon/demo1/wp-content/uploads/sites/2/2017/03/logo-light.png</value>
+  </option>
+  <option>
+    <id>carbon_logo_retina_image_url_light</id>
+    <value>http://demos.upperthemes.com/carbon/demo1/wp-content/uploads/sites/2/2017/03/logo-light@2x.png</value>
+  </option>
+  <option>
+    <id>carbon_logo_image_url_dark</id>
+    <value>http://demos.upperthemes.com/carbon/demo1/wp-content/uploads/sites/2/2017/03/logo-dark.png</value>
+  </option>
+  <option>
+    <id>carbon_logo_retina_image_url_dark</id>
+    <value>http://demos.upperthemes.com/carbon/demo1/wp-content/uploads/sites/2/2017/03/logo-dark@2x.png</value>
+  </option>
+  <option>
+    <id>carbon_info_above_menu</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_wpml_menu_widget</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_top_bar_menu</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_telephone_menu</id>
+    <value>(+23) 345 665 200</value>
+  </option>
+  <option>
+    <id>carbon_email_menu</id>
+    <value>geral@carbontheme.com</value>
+  </option>
+  <option>
+    <id>carbon_address_menu</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_text_field_menu</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_enable_socials</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_enable_search</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_enable_ajax_search</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_enable_search_everything</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_search_secondary_title</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_search_archive_sidebar</id>
+    <value>none</value>
+  </option>
+  <option>
+    <id>carbon_search_sidebars_available</id>
+    <value>right-sidebar</value>
+  </option>
+  <option>
+    <id>carbon_search_show_author</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_search_show_date</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_search_show_tags</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_search_show_categories</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_footer_number_cols</id>
+    <value>three</value>
+  </option>
+  <option>
+    <id>carbon_footer_columns_order</id>
+    <value>one_three</value>
+  </option>
+  <option>
+    <id>carbon_footer_columns_order_four</id>
+    <value>one_four</value>
+  </option>
+  <option>
+    <id>carbon_footer_full_width</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_footer_display_logo</id>
+    <value>off</value>
+  </option>
+  <option>
+    <id>carbon_footer_logo_image_url</id>
+    <value>http://demos.upperthemes.com/carbon/demo1/wp-content/uploads/sites/2/2017/03/logo-light.png</value>
+  </option>
+  <option>
+    <id>carbon_footer_logo_retina_image_url</id>
+    <value>http://demos.upperthemes.com/carbon/demo1/wp-content/uploads/sites/2/2017/03/logo-light@2x.png</value>
+  </option>
+  <option>
+    <id>carbon_footer_logo_alignment</id>
+    <value>left</value>
+  </option>
+  <option>
+    <id>carbon_footer_display_social_icons</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_footer_social_icons_alignment</id>
+    <value>center</value>
+  </option>
+  <option>
+    <id>carbon_footer_display_custom_text</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_footer_custom_text</id>
+    <value>&lt;p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"&gt;&#xA0;2019 Carbon Theme &#xA9;&#xA0;Upper Digital&lt;/p&gt;</value>
+  </option>
+  <option>
+    <id>carbon_footer_custom_text_alignment</id>
+    <value>center</value>
+  </option>
+  <option>
+    <id>carbon_sidebar_name_names</id>
+    <value>latest-posts-sidebar|*|latest-projects-sidebar-boxeshome|*|woocommerce|*|right-sidebar|*|left-sidebar|*|latest-projects-sidebar|*|</value>
+  </option>
+  <option>
+    <id>carbon_posts_flex_navigation</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_posts_flex_controls</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_posts_flex_transition</id>
+    <value>slide</value>
+  </option>
+  <option>
+    <id>carbon_posts_flex_transition_duration</id>
+    <value>500</value>
+  </option>
+  <option>
+    <id>carbon_posts_flex_slide_duration</id>
+    <value>5500</value>
+  </option>
+  <option>
+    <id>carbon_posts_flex_autoplay</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_posts_flex_pause_hover</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_posts_flex_height</id>
+    <value>400px</value>
+  </option>
+  <option>
+    <id>carbon_projs_flex_navigation</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_projs_flex_controls</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_projs_flex_transition</id>
+    <value>slide</value>
+  </option>
+  <option>
+    <id>carbon_projs_flex_transition_duration</id>
+    <value>500</value>
+  </option>
+  <option>
+    <id>carbon_projs_flex_slide_duration</id>
+    <value>5500</value>
+  </option>
+  <option>
+    <id>carbon_projs_flex_autoplay</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_projs_flex_pause_hover</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_projs_flex_height</id>
+    <value>400px</value>
+  </option>
+  <option>
+    <id>carbon_newsletter_text</id>
+    <value>Subscribe our Newsletter</value>
+  </option>
+  <option>
+    <id>carbon_newsletter_stext</id>
+    <value>Subscribe to our newsletter to receive news, cool free stuff updates and new released products (no spam!)</value>
+  </option>
+  <option>
+    <id>carbon_newsletter_input_text</id>
+    <value>Enter your email here</value>
+  </option>
+  <option>
+    <id>carbon_mailchimp_code</id>
+    <value>&lt;!-- Begin MailChimp Signup Form --&gt;&#xD;
+&lt;div id=\"mc_embed_signup\"&gt;&#xD;
+&lt;form action=\"//upperinc.us12.list-manage.com/subscribe/post?u=19baf45026313d24a55bcf058&amp;id=3df231ca82\" method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\" class=\"validate\" target=\"_blank\"&gt;&#xD;
+    &lt;div id=\"mc_embed_signup_scroll\"&gt;&#xD;
+	&lt;h2&gt;Subscribe to our mailing list&lt;/h2&gt;&#xD;
+&lt;div class=\"indicates-required\"&gt;&lt;span class=\"asterisk\"&gt;*&lt;/span&gt; indicates required&lt;/div&gt;&#xD;
+&lt;div class=\"mc-field-group\"&gt;&#xD;
+	&lt;label for=\"mce-EMAIL\"&gt;Email Address  &lt;span class=\"asterisk\"&gt;*&lt;/span&gt;&#xD;
+&lt;/label&gt;&#xD;
+	&lt;input type=\"email\" value=\"\" name=\"EMAIL\" class=\"required email\" id=\"mce-EMAIL\"&gt;&#xD;
+&lt;/div&gt;&#xD;
+&#xD;
+	&lt;div id=\"mce-responses\" class=\"clear\"&gt;&#xD;
+		&lt;div class=\"response\" id=\"mce-error-response\"&gt;&lt;/div&gt;&#xD;
+		&lt;div class=\"response\" id=\"mce-success-response\"&gt;&lt;/div&gt;&#xD;
+	&lt;/div&gt;    &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;&#xD;
+    &lt;div aria-hidden=\"true\"&gt;&lt;input type=\"text\" name=\"b_19baf45026313d24a55bcf058_3df231ca82\" value=\"\"&gt;&lt;/div&gt;&#xD;
+    &lt;div class=\"clear\"&gt;&lt;input type=\"submit\" value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"&gt;&lt;/div&gt;&#xD;
+    &lt;/div&gt;&#xD;
+&lt;/form&gt;&#xD;
+&lt;/div&gt;&#xD;
+&#xD;
+&lt;!--End mc_embed_signup--&gt;</value>
+  </option>
+  <option>
+    <id>carbon_newsletter_enabled</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_breadcrumbs_home_text</id>
+    <value>Home</value>
+  </option>
+  <option>
+    <id>carbon_you_are_here</id>
+    <value>You are here:</value>
+  </option>
+  <option>
+    <id>carbon_latest_for_twitter</id>
+    <value>Latest from &lt;span class=text_color&gt;Twitter&lt;/span&gt;</value>
+  </option>
+  <option>
+    <id>carbon_open_menu</id>
+    <value>Open Menu</value>
+  </option>
+  <option>
+    <id>carbon_next_single_proj</id>
+    <value>Next Project</value>
+  </option>
+  <option>
+    <id>carbon_prev_single_proj</id>
+    <value>Previous Project</value>
+  </option>
+  <option>
+    <id>carbon_share_proj_text</id>
+    <value>SHARE THIS PROJECT</value>
+  </option>
+  <option>
+    <id>carbon_read_more</id>
+    <value>read more</value>
+  </option>
+  <option>
+    <id>carbon_previous_text</id>
+    <value>Previous posts</value>
+  </option>
+  <option>
+    <id>carbon_next_text</id>
+    <value>Next posts</value>
+  </option>
+  <option>
+    <id>carbon_single_previous_text</id>
+    <value>Previous post</value>
+  </option>
+  <option>
+    <id>carbon_single_next_text</id>
+    <value>Next post</value>
+  </option>
+  <option>
+    <id>carbon_by_text</id>
+    <value>by</value>
+  </option>
+  <option>
+    <id>carbon_in_text</id>
+    <value>In</value>
+  </option>
+  <option>
+    <id>carbon_tags_text</id>
+    <value>Tags</value>
+  </option>
+  <option>
+    <id>carbon_categories_text</id>
+    <value>Categories</value>
+  </option>
+  <option>
+    <id>carbon_load_more_posts_text</id>
+    <value>Load More Posts</value>
+  </option>
+  <option>
+    <id>carbon_no_more_posts_text</id>
+    <value>No more posts to load.</value>
+  </option>
+  <option>
+    <id>carbon_loading_posts_text</id>
+    <value>Loading posts...</value>
+  </option>
+  <option>
+    <id>carbon_share_post_text</id>
+    <value>SHARE THIS</value>
+  </option>
+  <option>
+    <id>carbon_no_comments_text</id>
+    <value>No comments</value>
+  </option>
+  <option>
+    <id>carbon_comment_text</id>
+    <value>comment</value>
+  </option>
+  <option>
+    <id>carbon_comments_text</id>
+    <value>comments</value>
+  </option>
+  <option>
+    <id>carbon_search_box_text</id>
+    <value>Type and hit enter...</value>
+  </option>
+  <option>
+    <id>carbon_search_results_text</id>
+    <value>Search results for</value>
+  </option>
+  <option>
+    <id>carbon_no_results_text</id>
+    <value>No results found.</value>
+  </option>
+  <option>
+    <id>carbon_next_results</id>
+    <value>Next results</value>
+  </option>
+  <option>
+    <id>carbon_previous_results</id>
+    <value>Previous results</value>
+  </option>
+  <option>
+    <id>carbon_cf_name</id>
+    <value>Name</value>
+  </option>
+  <option>
+    <id>carbon_cf_email</id>
+    <value>Email</value>
+  </option>
+  <option>
+    <id>carbon_cf_message</id>
+    <value>Message</value>
+  </option>
+  <option>
+    <id>carbon_cf_send</id>
+    <value>Send</value>
+  </option>
+  <option>
+    <id>carbon_twitter_follow_us</id>
+    <value>Follow us on Twitter.</value>
+  </option>
+  <option>
+    <id>carbon_twitter_pre_tweet</id>
+    <value>I was looking at </value>
+  </option>
+  <option>
+    <id>carbon_404_heading</id>
+    <value>Oops! There is nothing here...</value>
+  </option>
+  <option>
+    <id>carbon_404_text</id>
+    <value>It seems we can\'t find what you\'re looking for. Perhaps searching one of the links in the above menu, can help.</value>
+  </option>
+  <option>
+    <id>carbon_404_button_text</id>
+    <value>GO TO HOMEPAGE</value>
+  </option>
+  <option>
+    <id>carbon_icon-facebook</id>
+    <value>#</value>
+  </option>
+  <option>
+    <id>carbon_icon-twitter</id>
+    <value>#</value>
+  </option>
+  <option>
+    <id>carbon_icon-tumblr</id>
+    <value>#</value>
+  </option>
+  <option>
+    <id>carbon_icon-stumbleupon</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-flickr</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-linkedin</id>
+    <value>#</value>
+  </option>
+  <option>
+    <id>carbon_icon-delicious</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-skype</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-digg</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-google-plus</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-vimeo-square</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-deviantart</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-behance</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-instagram</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-blogger</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-wordpress</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-youtube</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-reddit</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-rss</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-soundcloud</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-pinterest</id>
+    <value></value>
+  </option>
+  <option>
+    <id>carbon_icon-dribbble</id>
+    <value>#</value>
+  </option>
+  <option>
+    <id>carbon_twitter_username</id>
+    <value>UpperInc</value>
+  </option>
+  <option>
+    <id>twitter_consumer_key</id>
+    <value>XuNLSTpdC3D3otfB6Ok4nhq6q</value>
+  </option>
+  <option>
+    <id>twitter_consumer_secret</id>
+    <value>FlwIjuXuJnHkb05TenKEq57C1LAZ4WZxW3KxbPyfXZdi76tHFP</value>
+  </option>
+  <option>
+    <id>twitter_user_token</id>
+    <value>4860811627-MQTVtHqiFxOAcslZPb9C7nFVGJBui1z3tccftz7</value>
+  </option>
+  <option>
+    <id>twitter_user_secret</id>
+    <value>BRMMOT7RjcKnW9c3pAVk6CDGnUIwkdfFEYityzzjSnnxu</value>
+  </option>
+  <option>
+    <id>carbon_twitter_number_tweets</id>
+    <value>5</value>
+  </option>
+  <option>
+    <id>enable_custom_css</id>
+    <value>on</value>
+  </option>
+  <option>
+    <id>carbon_custom_css</id>
+    <value>.blog-default .the_content p, .blog-default .the_content, .blog_excerpt p, .blog-default .the_content li{&#xD;
+    font-size: 1.1em;&#xD;
+}&#xD;
+#primary_footer a, .widget-contact-info-content {&#xD;
+    font-size: 13px !important;&#xD;
+}&#xD;
+.blog_excerpt p{&#xD;
+    font-size: 1.25em;&#xD;
+}&#xD;
+&#xD;
+&#xD;
+.no-letter-spacing, .no-letter-spacing h3, .no-letter-spacing h2{&#xD;
+    letter-spacing:0 !important;&#xD;
+}&#xD;
+&#xD;
+.typed-cursor{&#xD;
+    display: none;&#xD;
+}&#xD;
+&#xD;
+.align-icon-left{&#xD;
+    float: left;&#xD;
+    width: auto;&#xD;
+    margin: 5px 10px 5px 0;&#xD;
+    opacity:0.6;&#xD;
+}&#xD;
+.align-icon-left:hover{&#xD;
+    opacity:1;&#xD;
+}&#xD;
+#dl-menu ul li:not(:last-child) a, .carbon_sub_menu_border_color {&#xD;
+    border-bottom: none !important;&#xD;
+}&#xD;
+&#xD;
+.mail-box .banner p {&#xD;
+    font-size: 15px !important;&#xD;
+    color: #565656 !important;&#xD;
+}&#xD;
+#secondary_footer p {&#xD;
+    margin: 0 !important;&#xD;
+    font-size: 12px;&#xD;
+}&#xD;
+&#xD;
+h1,h2,h4,h5, .big-letter-spacing{&#xD;
+    letter-spacing: 10px;&#xD;
+}&#xD;
+h3, h6, .custom-letter-spacing{&#xD;
+    letter-spacing: 4px;&#xD;
+}&#xD;
+h4.vc_tta-panel-title, table h5{letter-spacing:0;}&#xD;
+&#xD;
+.no-letter-spacing, .no-letter-spacing h3, .no-letter-spacing h2{&#xD;
+    letter-spacing:0 !important;&#xD;
+}&#xD;
+#secondary_footer .footer_custom_text.center {&#xD;
+    margin-top: 10px;&#xD;
+}</value>
+  </option>
+  <option>
+    <id>carbon_import_options</id>
+    <value></value>
+  </option>
+</root>
